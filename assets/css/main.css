@@ -1515,6 +1515,9 @@
 		margin: 0 0 2em 0;
 		text-align: center;
 	}
+	p.small-text {
+		font-size:0.9em;
+	}
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: bold;
@@ -2659,7 +2662,7 @@
 		}
 
 		.spotlight .contentfull {
-			padding: 2em 3em 0.1em 1em;
+			padding: 2em 2em 0.1em 2em;
 			width: 100%;
 		}
 
